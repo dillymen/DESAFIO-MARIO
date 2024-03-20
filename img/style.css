@@ -161,6 +161,8 @@ textarea {
     min -> valor maior que o Npx, aplica o css do MEDIA    
     */
 
+    
+
 
    @media(max-width: 1100px) {
 
