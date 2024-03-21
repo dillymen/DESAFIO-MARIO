@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-javascript" />
 
 <h3> Imagens do Site :camera: :iphone: </h3>
+<br>
+<br>
 
 <img src="https://github.com/dillymen/DESAFIO-MARIO/blob/main/img/Captura%20de%20tela%202024-03-20%20220337.png?raw=true" />
 <br>
